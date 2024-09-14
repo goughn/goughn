@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naythan</h1>
+<h1 align="center">💫 About Me:</h1>
 <h3 align="center">I am a Computer Science student at the University of Michigan slated to graduate April 2027</h3>
 
 - 🔭 I’m currently working on **my degree at the University of Michigan, doing personal projects, grinding LeetCode, and pursuing a SWE career!**
