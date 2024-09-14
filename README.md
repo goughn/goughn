@@ -9,9 +9,9 @@
 
 - linkedin: [https://www.linkedin.com/in/naythan-gough/](https://www.linkedin.com/in/naythan-gough/)
 
-- 💬 Ask me about **video games, building PC's, what music I'm listening to, or anything Pokémon**
+- 💬 Ask me about: **video games, building PC's, what music I'm listening to, or anything Pokémon**
 
-- ⚡ Fun fact Snakes have no arms. that’s why they don’t wear vests.
+- ⚡ Fun fact: Snakes have no arms. that’s why they don’t wear vests.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
